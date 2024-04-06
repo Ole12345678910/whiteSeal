@@ -1,9 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body {
-    color: #8b0505;
-    background-color: #521f7c;
+    background-color: skyblue
+}
+
+section{
+    
 }
 
 nav ul li a {
     color: #fafafa;
-    }
+}
 
+h1{
+    background: skyblue;
+}
